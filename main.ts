@@ -5,20 +5,20 @@ import data from "./data.json" assert { type: "json" };
 const router = new Router();
 router
   .get("/", (context) => {
-    context.response.body = "Welcome to dinosaur API!";
+    context.response.body = "PROPERTY OF GENETECH CORP";
   })
   .get("/api", (context) => {
     context.response.body = data;
   })
-  .get("/api/:dinosaur", (context) => {
-    if (context?.params?.dinosaur) {
-      const found = data.find((item) =>
-        item.name.toLowerCase() === context.params.dinosaur.toLowerCase()
+  .get("/api/:name", (context) => {
+    if (context?.params?.name) {
+      const found = data.find(
+        (item) => item.name.toLowerCase() === context.params.name.toLowerCase(),
       );
       if (found) {
         context.response.body = found;
       } else {
-        context.response.body = "No dinosaurs found.";
+        context.response.body = 'No data found.';
       }
     }
   });
