@@ -1,587 +1,602 @@
 [
   {
-    "name": "Luminaris phosphofolia",
     "description": "A tall, slender stalk that reaches up to 5 meters in height, adorned with bioluminescent leaf-like structures that glow in various shades of blues and greens during the night.",
+    "name": "Luminaris phosphofolia",
     "properties": "Its bioluminescent properties can be used as a sustainable light source, and it's known to absorb and store atmospheric pollutants."
   },
   {
-    "name": "Silicarborum crystalflores",
     "description": "A plant with transparent, crystal-like petals that shimmer under sunlight. Its roots are deep and intricate, almost resembling complex circuits.",
+    "name": "Silicarborum crystalflores",
     "properties": "Extracts from its roots can serve as natural semiconductors in electronic devices."
   },
   {
-    "name": "Nebulus floatispherum",
     "description": "Looks like a delicate puffball that floats in the atmosphere of gas giants. Contains small internal gas chambers.",
+    "name": "Nebulus floatispherum",
     "properties": "Harvesting and processing these chambers can produce a lightweight gas with potential applications in space travel and levitation technologies."
   },
   {
-    "name": "Venenara toxipetala",
     "description": "A carnivorous plant with bright red petals that secrete a toxic substance to paralyze and digest small flying creatures.",
+    "name": "Venenara toxipetala",
     "properties": "The toxin has potential pharmaceutical applications for developing powerful anesthetics or muscle relaxants."
   },
   {
-    "name": "Magneta polarnecta",
     "description": "A plant with magnetic roots that aligns itself with the planet's magnetic field. It has white and silver petals that look metallic.",
+    "name": "Magneta polarnecta",
     "properties": "Its magnetic properties can be studied for developing new methods of magnetic propulsion or levitation."
   },
   {
-    "name": "Aerolium spinaventus",
     "description": "A balloon-like plant that inflates when mature, releasing thousands of spore-like seeds that have thin propellers, allowing them to travel great distances.",
+    "name": "Aerolium spinaventus",
     "properties": "Studying its mechanism can inspire new designs for wind turbines or fans."
   },
   {
-    "name": "Aquaterra tuberosphere",
     "description": "A semi-aquatic plant with a bulbous, transparent body showing a small ecosystem inside, from microscopic flora to tiny swimming creatures.",
+    "name": "Aquaterra tuberosphere",
     "properties": "A potential natural water filtration system, as it purifies the water inside its bulbous body."
   },
   {
-    "name": "Thermarum lavaleaf",
     "description": "Thrives near volcanic vents, its red and orange leaves can withstand extreme temperatures.",
+    "name": "Thermarum lavaleaf",
     "properties": "Research into its cellular structure could lead to advancements in heat-resistant materials."
   },
   {
-    "name": "Oscillarus vibroflora",
     "description": "A plant with thin, flexible stems that vibrate at certain frequencies, producing a mesmerizing hum.",
+    "name": "Oscillarus vibroflora",
     "properties": "The vibrations have shown to accelerate the healing of broken bones and tissue in some extraterrestrial species."
   },
   {
-    "name": "Stellara solardrape",
     "description": "Wide, solar-panel-like leaves that absorb and store sunlight efficiently. The center of the plant emits a gentle glow during the night.",
+    "name": "Stellara solardrape",
     "properties": "Its method of light absorption and storage can be mimicked for improving solar panel technology on Earth."
   },
   {
-    "name": "Glacius frondicor",
     "description": "A plant that thrives in extreme cold, with shimmering icicle-like protrusions instead of traditional leaves.",
+    "name": "Glacius frondicor",
     "properties": "Extracts from this plant have natural antifreeze properties and could be utilized in extreme cold-climate research or technologies."
   },
   {
-    "name": "Electrofera pulsefolium",
     "description": "This flora generates its own electric field and has luminescent veins running through its broad leaves.",
+    "name": "Electrofera pulsefolium",
     "properties": "It could be a biological blueprint for sustainable electricity generation."
   },
   {
-    "name": "Gravitara sinkroot",
     "description": "A plant that manipulates the gravity around it, causing nearby objects to feel lighter or heavier.",
+    "name": "Gravitara sinkroot",
     "properties": "Study of its mechanism might lead to breakthroughs in artificial gravity systems or advanced propulsion."
   },
   {
-    "name": "Ventus spireweave",
     "description": "Tall, spiraled stalks that whistle when wind passes through, attracting pollinators with its eerie melody.",
+    "name": "Ventus spireweave",
     "properties": "Its acoustic properties can be incorporated into wind-based musical instruments or communication devices."
   },
   {
-    "name": "Sonorus resonantia",
     "description": "A flower that responds to sound waves, opening and closing its petals in response to different frequencies.",
+    "name": "Sonorus resonantia",
     "properties": "Potential for natural sound detection or amplification applications."
   },
   {
-    "name": "Desicata aquaspire",
     "description": "A cactus-like plant that stores moisture in bulbous reservoirs, surviving in extremely arid conditions.",
+    "name": "Desicata aquaspire",
     "properties": "Could inspire efficient water storage and conservation solutions."
   },
   {
-    "name": "Mirrara reflectifolia",
     "description": "Its leaves have a mirror-like surface, reflecting light with high precision.",
+    "name": "Mirrara reflectifolia",
     "properties": "Offers insights into natural light reflection and focus, potentially beneficial for optical technologies."
   },
   {
-    "name": "Titanum stretchbark",
     "description": "A massive tree with an expandable bark that can grow and shrink in size based on environmental conditions.",
+    "name": "Titanum stretchbark",
     "properties": "Studying its cellular expansion can lead to innovative expandable habitat solutions for space exploration."
   },
   {
-    "name": "Nubilus floatfrond",
     "description": "Feather-like plants that drift in the skies of their native planet, absorbing airborne nutrients.",
+    "name": "Nubilus floatfrond",
     "properties": "Potential insights into airborne farming or atmosphere purification techniques."
   },
   {
-    "name": "Pyrophyllo ignitus",
     "description": "Thriving in regions with frequent fires, its leaves exude a protective gel when exposed to high temperatures.",
+    "name": "Pyrophyllo ignitus",
     "properties": "The gel has potential uses as a natural fire retardant."
   },
   {
-    "name": "Prismatica refractiflora",
     "description": "Its petals split light into its spectrum, creating a radiant rainbow effect.",
+    "name": "Prismatica refractiflora",
     "properties": "Could inspire advanced optical devices and holography techniques."
   },
   {
-    "name": "Nocturne lunabloom",
     "description": "Only blooms under specific lunar conditions, radiating a soft, moonlike glow.",
+    "name": "Nocturne lunabloom",
     "properties": "Potential applications in natural lighting or lunar-based agriculture."
   },
   {
-    "name": "Ferroflex rustleaf",
     "description": "Metallic foliage that bends and twists, reacting to magnetic fields.",
+    "name": "Ferroflex rustleaf",
     "properties": "A biological study of magnetism and potential inspiration for flexible metallic devices."
   },
   {
-    "name": "Echobud sonarpetal",
     "description": "Releases ultrasonic waves to communicate with its surroundings and other plants.",
+    "name": "Echobud sonarpetal",
     "properties": "Insights into ultrasonic communication or navigation."
   },
   {
-    "name": "Fluxroot penduloflora",
     "description": "Swinging root systems that maintain the plant's balance in shifting terrains.",
+    "name": "Fluxroot penduloflora",
     "properties": "Could inspire advanced architectural or engineering solutions in unstable conditions."
   },
   {
-    "name": "Irides iridescence",
     "description": "Changes color based on the viewer's angle, dazzling with its dynamic display.",
+    "name": "Irides iridescence",
     "properties": "Potential for advanced color-changing materials or camouflage technologies."
   },
   {
-    "name": "Nebulafluff gaspod",
     "description": "Produces buoyant pods filled with light gas, allowing seeds to float and travel vast distances.",
+    "name": "Nebulafluff gaspod",
     "properties": "Gas extraction for lightweight aviation or transport technologies."
   },
   {
-    "name": "Quiverleaf tremorflora",
     "description": "Reacts to ground vibrations, using them to shake off pests or gather loose surface nutrients.",
+    "name": "Quiverleaf tremorflora",
     "properties": "Seismological studies and vibration-sensitive technologies."
   },
   {
-    "name": "Solardrink sunsipper",
     "description": "Funnel-shaped leaves channel sunlight into its core, converting it into liquid energy.",
+    "name": "Solardrink sunsipper",
     "properties": "A potential model for advanced liquid solar batteries."
   },
   {
-    "name": "Vortexia spinroot",
     "description": "Root systems rotate like natural drills, allowing the plant to anchor deep or relocate in search of nutrients.",
+    "name": "Vortexia spinroot",
     "properties": "Can inspire efficient drilling or anchoring mechanisms."
   },
   {
-    "name": "Spectraflora radioluma",
     "description": "A radiant shrub that captures different light spectrums, illuminating in a spectrum from ultraviolet to infrared.",
+    "name": "Spectraflora radioluma",
     "properties": "Advanced lighting technologies or multi-spectrum observation devices."
   },
   {
-    "name": "Aethersprout voidstem",
     "description": "A plant that seems to float due to emitting a gas which counteracts gravity.",
+    "name": "Aethersprout voidstem",
     "properties": "Research into antigravity materials or buoyancy control systems."
   },
   {
-    "name": "Halosphera saltbloom",
     "description": "Thrives in hyper-saline environments, its leaves crystallize salt patterns on their surfaces.",
+    "name": "Halosphera saltbloom",
     "properties": "Efficient desalination methods or saline-based artworks."
   },
   {
-    "name": "Caelumfluff cloudpuff",
     "description": "Cotton-like plant that produces cloud-resembling tufts which aid in aerial dispersal.",
+    "name": "Caelumfluff cloudpuff",
     "properties": "Atmospheric studies and lightweight insulation materials."
   },
   {
-    "name": "Harmoniflora chordalys",
     "description": "Resonates harmonious musical notes when the wind passes through its chime-like structures.",
+    "name": "Harmoniflora chordalys",
     "properties": "New musical instrument inspirations or sound therapy applications."
   },
   {
-    "name": "Oscillocane wavebranch",
     "description": "Long branches move in rhythmic oscillations, mimicking the properties of waves.",
+    "name": "Oscillocane wavebranch",
     "properties": "Studies on natural frequencies and their potential applications in communications."
   },
   {
-    "name": "Polarnectar freezeberry",
     "description": "A berry-producing plant that thrives in sub-zero temperatures; the berries contain a sweet, antifreeze-like sap.",
+    "name": "Polarnectar freezeberry",
     "properties": "Cold-resistant crop cultivation or natural antifreeze solutions."
   },
   {
-    "name": "Vapourvine steamleaf",
     "description": "A vine-like plant that emits a constant stream of warm vapor from its leaves.",
+    "name": "Vapourvine steamleaf",
     "properties": "Potential for natural humidification systems or spa therapies."
   },
   {
-    "name": "Galaxia starpetal",
     "description": "Flowers that open at night, their petals shimmering with a galaxy-like pattern.",
+    "name": "Galaxia starpetal",
     "properties": "Light absorption and reflection studies for better space observatory systems."
   },
   {
-    "name": "Phonicfrond whisperleaf",
     "description": "Leaves that pick up and amplify ambient sounds, acting like natural parabolic microphones.",
+    "name": "Phonicfrond whisperleaf",
     "properties": "Acoustic engineering or surveillance technologies."
   },
   {
-    "name": "Fluxbush morphoshade",
     "description": "Its foliage changes shape based on light exposure, creating a dynamic silhouette.",
+    "name": "Fluxbush morphoshade",
     "properties": "Smart shading solutions or adaptive camouflage."
   },
   {
-    "name": "Helixtree DNAstrand",
     "description": "A tree with a double helix structure resembling DNA, storing genetic information of its environment.",
+    "name": "Helixtree DNAstrand",
     "properties": "Natural data storage methods or advanced genetic research."
   },
   {
-    "name": "Temporoflower timelapse",
     "description": "A plant that blooms and wilts in a cyclic pattern, mirroring the concept of time.",
+    "name": "Temporoflower timelapse",
     "properties": "Natural clocks or understanding plant circadian rhythms."
   },
   {
-    "name": "Tidalroot moonpuller",
     "description": "Anchored in tidal regions, its growth is influenced by lunar cycles, reacting to the gravitational pull of moons.",
+    "name": "Tidalroot moonpuller",
     "properties": "Tidal energy harnessing or lunar gravity studies."
   },
   {
-    "name": "Chromabush palettefern",
     "description": "A bush where each leaf is a different hue, collectively spanning an entire color palette.",
+    "name": "Chromabush palettefern",
     "properties": "Natural pigmentation studies or art inspirations."
   },
   {
-    "name": "Psionipetal thoughtbloom",
     "description": "A flower believed to react to the cognitive waves of sentient beings around it.",
+    "name": "Psionipetal thoughtbloom",
     "properties": "Cognitive science applications or sentient detection systems."
   },
   {
-    "name": "Stratoshrub skyroot",
     "description": "A tall plant reaching into the atmosphere, capturing airborne particles and minerals.",
+    "name": "Stratoshrub skyroot",
     "properties": "Air purification or atmospheric sampling."
   },
   {
-    "name": "Lumifern shadowdancer",
     "description": "Bioluminescent fronds casting intricate shadow plays on the ground.",
+    "name": "Lumifern shadowdancer",
     "properties": "Light therapy or entertainment."
   },
   {
-    "name": "Thermofern heatleaf",
     "description": "Thrives in geothermal areas, absorbing and storing heat in its thermal pods.",
+    "name": "Thermofern heatleaf",
     "properties": "Natural geothermal energy harnessing."
   },
   {
-    "name": "Magmabloom lavapetal",
     "description": "A resilient flower thriving on the edges of lava flows, its bright red petals shimmering from the heat.",
+    "name": "Magmabloom lavapetal",
     "properties": "Fire-resistant materials or volcanic activity indicators."
   },
   {
-    "name": "Caelumspike skyspear",
     "description": "Sky-reaching plants with pointed tips that pierce the clouds of their native planet.",
+    "name": "Caelumspike skyspear",
     "properties": "Harvesting atmospheric water vapor or atmospheric layer studies."
   },
   {
-    "name": "Aquashade umbrafern",
     "description": "Floating aquatic plants with broad leaves that cast shadow patterns on water surfaces, providing cool shelters for aquatic life.",
+    "name": "Aquashade umbrafern",
     "properties": "Natural water cooling or aquaculture enhancements."
   },
   {
-    "name": "Glimmerroot starshrub",
     "description": "Roots that glisten and shine, illuminating underground caverns.",
+    "name": "Glimmerroot starshrub",
     "properties": "Subterranean lighting or bio-luminescent research."
   },
   {
-    "name": "Vibrantia pulsarpetal",
     "description": "Flowers pulsating with colorful lights, mimicking a pulsar's rhythmic emission.",
+    "name": "Vibrantia pulsarpetal",
     "properties": "Natural timers or circadian rhythm studies."
   },
   {
-    "name": "Cosmobloom astralflower",
     "description": "Flowers that replicate the patterns of known constellations on their petals.",
+    "name": "Cosmobloom astralflower",
     "properties": "Stellar navigation or astronomical education tools."
   },
   {
-    "name": "Chorusleaf singingshrub",
     "description": "Leaves that produce melodic harmonies when rustled by the wind.",
+    "name": "Chorusleaf singingshrub",
     "properties": "Acoustic research or natural musical compositions."
   },
   {
-    "name": "Toxibud venomleaf",
     "description": "Produces a potent toxin for defense, yet with medicinal properties in minute doses.",
+    "name": "Toxibud venomleaf",
     "properties": "Pharmaceutical applications or pest deterrents."
   },
   {
-    "name": "Orbium floatbloom",
     "description": "Perfectly round flowers that hover above the ground due to a gas-filled core.",
+    "name": "Orbium floatbloom",
     "properties": "Levitation research or decorative purposes."
   },
   {
-    "name": "Neonnectar glowfruit",
     "description": "Fruits filled with neon-colored nectar which glow in the dark.",
+    "name": "Neonnectar glowfruit",
     "properties": "Natural illuminants or exotic culinary uses."
   },
   {
-    "name": "Etherweb skywebber",
     "description": "Creates intricate aerial webs which capture and digest small flying organisms.",
+    "name": "Etherweb skywebber",
     "properties": "Aerial trap mechanisms or lightweight tensile material studies."
   },
   {
-    "name": "Diamondbark gemtree",
     "description": "A tree with bark as tough and shimmering as diamonds.",
+    "name": "Diamondbark gemtree",
     "properties": "Ultra-hard natural materials or jewelry."
   },
   {
-    "name": "Chronoflower clockpetal",
     "description": "A flower that blooms and closes in precise hourly intervals.",
+    "name": "Chronoflower clockpetal",
     "properties": "Natural timekeeping or botanical studies on time perception."
   },
   {
-    "name": "Whirlwind willowspin",
     "description": "Tree that rotates its branches to create wind vortexes as a defense mechanism.",
+    "name": "Whirlwind willowspin",
     "properties": "Wind generation or aerodynamic studies."
   },
   {
-    "name": "Halocrown saltrose",
     "description": "Roses that flourish in saline environments, exuding a salt aura.",
+    "name": "Halocrown saltrose",
     "properties": "Saline farming or alternative salt production."
   },
   {
-    "name": "Wispfern phantomleaf",
     "description": "Almost invisible to the naked eye, these plants seem to vanish when approached.",
+    "name": "Wispfern phantomleaf",
     "properties": "Camouflage technologies or optical illusion studies."
   },
   {
-    "name": "Titanflare solarshrub",
     "description": "Shrubs that flare up with intense light when exposed to sunlight.",
+    "name": "Titanflare solarshrub",
     "properties": "Intense light generation or solar energy studies."
   },
   {
-    "name": "Mistbloom vapourpetal",
     "description": "Flowers that release a fragrant mist to attract pollinators.",
+    "name": "Mistbloom vapourpetal",
     "properties": "Humidification or aromatic therapies."
   },
   {
-    "name": "Eclipseshade moonfern",
     "description": "Plants that thrive in the absence of light, flourishing during solar eclipses.",
+    "name": "Eclipseshade moonfern",
     "properties": "Darkness cultivation or solar blocking studies."
   },
   {
-    "name": "Spirethorn thornpillar",
     "description": "Trees with long, spiraled thorns which contain a sweet, edible nectar inside.",
+    "name": "Spirethorn thornpillar",
     "properties": "Natural defense mechanisms or sweetener sources."
   },
   {
-    "name": "Meteorpetal starshard",
     "description": "Petals that sparkle, simulating a meteor shower when they fall.",
+    "name": "Meteorpetal starshard",
     "properties": "Natural luminescent displays or atmospheric event simulations."
   },
   {
-    "name": "Cascadeshimmer waterfallfern",
     "description": "Grows alongside waterfalls, its leaves shimmering with every drop that touches them.",
+    "name": "Cascadeshimmer waterfallfern",
     "properties": "Hydro-powered lighting or moisture detection."
   },
   {
-    "name": "Stellarshadow umbraweed",
     "description": "Plants that cast shadows in the shape of stars and galaxies.",
+    "name": "Stellarshadow umbraweed",
     "properties": "Stellar patterns or astronomical-themed art."
   },
   {
-    "name": "Riftroot portalbloom",
     "description": "Roots that dig deep, creating portal-like openings to underground springs.",
+    "name": "Riftroot portalbloom",
     "properties": "Water source detection or geological studies."
   },
   {
-    "name": "Quasarquill lightfeather",
     "description": "Plants that release feather-like structures which emit quasar-like beams.",
+    "name": "Quasarquill lightfeather",
     "properties": "Long-range light transmission or quasar research."
   },
   {
-    "name": "Polarflare icebloom",
     "description": "Flowers that radiate a cold aura, freezing nearby water particles.",
+    "name": "Polarflare icebloom",
     "properties": "Cooling technologies or ice generation."
   },
   {
-    "name": "Galaxyspin whirltree",
     "description": "Trees that rotate their canopy in a spiral, mimicking galaxy rotations.",
+    "name": "Galaxyspin whirltree",
     "properties": "Centrifugal force harnessing or galaxy rotation studies."
   },
   {
-    "name": "Cometcurl trailfern",
     "description": "Ferns that leave a luminescent trail when touched, similar to a comet's tail.",
+    "name": "Cometcurl trailfern",
     "properties": "Natural luminescence or touch-sensitive reactions."
   },
   {
-    "name": "Nebulanectar stardrop",
     "description": "Drops of nectar that create a mini-nebula effect when they evaporate.",
+    "name": "Nebulanectar stardrop",
     "properties": "Evaporation visualizations or nebula studies."
   },
   {
-    "name": "Voidviolet abyssbloom",
     "description": "Dark purple flowers that absorb almost all light, creating a void-like appearance.",
+    "name": "Voidviolet abyssbloom",
     "properties": "Light absorption or deep-space simulations."
   },
   {
-    "name": "Solflare sunleaf",
     "description": "Leaves that can replicate the brightness of a star, serving as a natural source of heat and light.",
+    "name": "Solflare sunleaf",
     "properties": "High intensity natural lighting or heat generation."
   },
   {
-    "name": "Ionibloom chargepetal",
     "description": "A flower that emits a mild static charge, attracting nearby airborne particles.",
+    "name": "Ionibloom chargepetal",
     "properties": "Natural air purification or static charge studies."
   },
   {
-    "name": "Lunarlace moonveil",
     "description": "Fine lacy plants that glow softly in the moonlight, illuminating nocturnal landscapes.",
+    "name": "Lunarlace moonveil",
     "properties": "Low-light illumination or nocturnal navigation."
   },
   {
-    "name": "Pyrofrond firefern",
     "description": "Ferns that emit a warm, gentle heat, often found near volcanic regions.",
+    "name": "Pyrofrond firefern",
     "properties": "Heat generation or thermal adaptation research."
   },
   {
-    "name": "Tidalwave seaweed",
     "description": "Aquatic plants that move rhythmically to tidal patterns, aiding in marine current predictions.",
+    "name": "Tidalwave seaweed",
     "properties": "Marine studies or tidal energy harnessing."
   },
   {
-    "name": "Solarshard sunspike",
     "description": "Plants that focus sunlight onto their sharp tips, functioning as natural solar collectors.",
+    "name": "Solarshard sunspike",
     "properties": "Solar energy concentration or optical focusing."
   },
   {
-    "name": "Stellarbristle starbrush",
     "description": "Bristled plants that trap and reflect starlight, creating mesmerizing patterns on the ground.",
+    "name": "Stellarbristle starbrush",
     "properties": "Light art or natural optical displays."
   },
   {
-    "name": "Echoloom sonicfern",
     "description": "Plants that emit echoing sounds when rustled, aiding in echolocation for local fauna.",
+    "name": "Echoloom sonicfern",
     "properties": "Acoustic research or natural soundscapes."
   },
   {
-    "name": "Gravitree pullbark",
     "description": "Trees with a strong gravitational pull, causing nearby objects to be slightly drawn towards them.",
+    "name": "Gravitree pullbark",
     "properties": "Gravitational research or containment studies."
   },
   {
-    "name": "Nimbusnet cloudcatcher",
     "description": "Elevated plants that trap and condense clouds, serving as natural water collectors.",
+    "name": "Nimbusnet cloudcatcher",
     "properties": "Water harvesting or atmospheric research."
   },
   {
-    "name": "Radiantrose prismflower",
     "description": "Flowers that refract light into vivid colors, creating rainbows in their vicinity.",
+    "name": "Radiantrose prismflower",
     "properties": "Light refraction studies or color therapy."
   },
   {
-    "name": "Vortexvine cyclonebloom",
     "description": "Vines that spiral in a vortex pattern, influencing local wind patterns.",
+    "name": "Vortexvine cyclonebloom",
     "properties": "Wind channeling or aerodynamic research."
   },
   {
-    "name": "Etherbush dreamleaf",
     "description": "Plants that release spores inducing vivid, dreamlike states in nearby organisms.",
+    "name": "Etherbush dreamleaf",
     "properties": "Neurological studies or natural sedatives."
   },
   {
-    "name": "Polarpine frostbark",
     "description": "Trees that thrive in extreme cold, with bark that insulates against sub-zero temperatures.",
+    "name": "Polarpine frostbark",
     "properties": "Cold-resistant materials or arctic cultivation."
   },
   {
-    "name": "Quantumbud entangleflower",
     "description": "Flowers that exhibit quantum entanglement properties with twin plants.",
+    "name": "Quantumbud entangleflower",
     "properties": "Quantum mechanics studies or communication research."
   },
   {
-    "name": "Auroravine lightstrand",
     "description": "Vines that mimic the auroras of their home planet, illuminating the night with dancing colors.",
+    "name": "Auroravine lightstrand",
     "properties": "Light displays or aurora research."
   },
   {
-    "name": "Galacticgrape cosmosfruit",
     "description": "Fruits that contain a juice with a sparkling, galaxy-like appearance.",
+    "name": "Galacticgrape cosmosfruit",
     "properties": "Cosmic beverages or interstellar-themed cuisine."
   },
   {
-    "name": "Meteormoss starlichen",
     "description": "Moss that glows upon meteor impacts, often used as a natural meteor detector.",
+    "name": "Meteormoss starlichen",
     "properties": "Meteor studies or impact signaling."
   },
   {
-    "name": "Solarflare sundew",
     "description": "Dew-covered plants that sizzle and steam when hit by sunlight.",
+    "name": "Solarflare sundew",
     "properties": "Thermal energy studies or solar adaptations."
   },
   {
-    "name": "Blackholebush voidbristle",
     "description": "Bushes that seem to absorb all nearby light, creating a visual void.",
+    "name": "Blackholebush voidbristle",
     "properties": "Light absorption research or camouflage technologies."
   },
   {
-    "name": "Eclipsefern shadowleaf",
     "description": "Leaves that perfectly eclipse the light source of their environment, creating predictable shadow patterns.",
+    "name": "Eclipsefern shadowleaf",
     "properties": "Light blocking or eclipse studies."
   },
   {
-    "name": "Neutrino nettle",
     "description": "Nettle-like plants that emit neutrino-like particles, passing harmlessly through most matter.",
+    "name": "Neutrino nettle",
     "properties": "Neutrino research or particle studies."
   },
   {
-    "name": "Orbitolive gyrafruit",
     "description": "Fruits that perpetually orbit the plant's main stem, defying conventional gravity.",
+    "name": "Orbitolive gyrafruit",
     "properties": "Orbital studies or gravitational anomalies."
   },
   {
-    "name": "Nanobloom pixelblossom",
     "description": "Microscopic flowers that group together to form larger, pixelated images.",
+    "name": "Nanobloom pixelblossom",
     "properties": "Micro-imaging or swarm behavior studies."
   },
   {
-    "name": "Starburst cacti",
     "description": "Cacti that explode in a burst of light when mature, scattering seeds in all directions.",
+    "name": "Starburst cacti",
     "properties": "Seed dispersal research or natural fireworks."
   },
   {
-    "name": "Holographedge mimicbush",
     "description": "Bushes that project holographic replicas of themselves as a defense mechanism.",
+    "name": "Holographedge mimicbush",
     "properties": "Holographic research or deceptive strategies."
   },
   {
-    "name": "Infinifern loopleaf",
     "description": "Fronds that grow in a perpetual loop, never truly ending.",
+    "name": "Infinifern loopleaf",
     "properties": "Infinity studies or unending growth patterns."
   },
   {
-    "name": "Nucleusnut atomfruit",
     "description": "Fruits with a core structure resembling atomic nuclei, often radiating mild energy.",
+    "name": "Nucleusnut atomfruit",
     "properties": "Energy source research or atomic studies."
   },
   {
-    "name": "Magnetomoss polarlichen",
     "description": "Moss that exhibits strong magnetic fields, often found on metal-rich extraterrestrial landscapes.",
+    "name": "Magnetomoss polarlichen",
     "properties": "Magnetic research or metal detection."
   },
   {
-    "name": "Crescentcreeper moonvine",
     "description": "Vines that grow in the shape of crescent moons, reflecting the lunar phases of their native planet.",
+    "name": "Crescentcreeper moonvine",
     "properties": "Lunar phase studies or moon-themed gardens."
   },
   {
-    "name": "Warpweed teleportbush",
     "description": "Bushes that seem to vanish and reappear in a different location periodically.",
+    "name": "Warpweed teleportbush",
     "properties": "Teleportation theories or space-time studies."
   },
   {
-    "name": "Spectralshrub ghostleaf",
     "description": "Leaves that shimmer and phase in and out of visibility.",
+    "name": "Spectralshrub ghostleaf",
     "properties": "Translucence research or phantom imaging."
   },
   {
-    "name": "Helixtree spiralbark",
     "description": "Trees with bark patterns that resemble DNA helixes, hinting at genetic marvels.",
+    "name": "Helixtree spiralbark",
     "properties": "Genetic research or bio-inspired design."
   },
   {
-    "name": "Nebulaberry cloudfruit",
     "description": "Berries that release a flavorful vapor when crushed.",
+    "name": "Nebulaberry cloudfruit",
     "properties": "Flavorful mists or atmospheric gastronomy."
   },
   {
-    "name": "Gravitide seaweed",
     "description": "Aquatic plants affected by the gravity of nearby celestial bodies, ebbing and flowing accordingly.",
+    "name": "Gravitide seaweed",
     "properties": "Tidal influence studies or celestial body research."
   },
   {
-    "name": "Electroelder sparktree",
     "description": "Trees that store electrical energy, releasing occasional sparks.",
+    "name": "Electroelder sparktree",
     "properties": "Natural energy storage or bio-electricity."
   },
   {
-    "name": "Vividviolet colorblossom",
     "description": "Flowers that shift through a spectrum of colors, based on their mood or environmental factors.",
+    "name": "Vividviolet colorblossom",
     "properties": "Chromatics research or mood-indicating plants."
   },
   {
-    "name": "Plasmapearl energyberry",
     "description": "Berries filled with a plasma-like substance, pulsing with energy.",
+    "name": "Plasmapearl energyberry",
     "properties": "High-energy food sources or plasma studies."
+  },
+  {
+    "description": "A sentient tree with neural network-like structures in its bark. It can perceive its surroundings and communicates using aromatic signals. This tree's leaves shimmer in patterns that, when observed, can induce varying states of consciousness in sentient beings.",
+    "name": "Psychoflora cognitree",
+    "properties": "Mind-altering visuals, neural communication research, and aromatic languages."
+  },
+  {
+    "description": "A flower that blooms and withers simultaneously, existing in a state of constant flux. Observing it for extended periods can lead to understanding nonlinear time concepts. The flower holds a seed at its core which, when planted, grows another flower that's older than the original.",
+    "name": "Paradoxpetal infinitybloom",
+    "properties": "Time paradox studies, nonlinear growth research, and age-reversal phenomena."
+  },
+  {
+    "description": "An almost invisible plant that absorbs everything around it, including light, sound, and matter. Its presence creates a silent, shadowless patch in its environment. The shrub's fruit, when consumed, temporarily grants the ability to perceive alternate realities.",
+    "name": "Voidroot nullshrub",
+    "properties": "Absolute absorption studies, silence zones, and alternate reality perception."
   }
 ]
